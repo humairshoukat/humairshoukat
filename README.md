@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Humair Shoukat**, a computer science student from Pakistan.
+- 👋 Hey, I’m **Humair Shoukat**, a computer science student from Pakistan.
 - 👀 I’m interested in developer technologies and tech communities.
 - 🌱 I’m currently learning web and app technologies.
 - 💞️ I’m looking to collaborate on open source and real world projects.
