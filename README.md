@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Humair Shoukat</h1>
 <h3 align="center">A computer science student from Pakistan 👨‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<br><br>
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br>
 
 - 🔭 I’m currently working on **final year project**
 
