@@ -13,7 +13,7 @@
 
 - 📫 You can reach me at **humairshoukat@gmail.com**
 
-- ⚡ Fun fact **Life is fun**
+- ⚡ Fun fact: **Coding improves Problem-Solving Skill**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
