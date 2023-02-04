@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br><br>
 
-- 🔭 I’m currently working on **final year project**
+- 🔭 I’m currently working on **my final year project**
 
 - 🌱 I’m currently learning **web & app technologies**
 
 - 🤝 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **building communities**
+- 💬 Ask me about **building technical student communities**
 
 - 📫 You can reach me at **humairshoukat@gmail.com**
 
