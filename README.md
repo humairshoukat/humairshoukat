@@ -60,6 +60,12 @@
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
+<h3 align="left">Profile views and Followers ❤</h3>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=humairshoukat"> </a>
+<a href="https://github.com/humairshoukat?tab=followers">
+   <img src="https://img.shields.io/github/followers/humairshoukat?label=Followers&style=social" alt="GitHub Badge">
+</a>
+
 <!---
 humairshoukat/humairshoukat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
