@@ -61,7 +61,7 @@
 </p>
 
 <h3 align="left">Profile views and Followers: </h3>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=humairshoukat"> </a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=red"> </a>
 <a href="https://github.com/humairshoukat?tab=followers">
    <img src="https://img.shields.io/github/followers/humairshoukat?label=Followers&style=social" alt="GitHub Badge">
 </a>
