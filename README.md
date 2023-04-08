@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/humairshoukat/humairshoukat/blob/output/github-contribution-grid-snake.svg" alt="snake"> //Asmit2952
 </p>
 
 <h3 align="left">Profile views and Followers: </h3>
