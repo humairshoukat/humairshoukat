@@ -1,7 +1,7 @@
 <h1 align="center"> Hi👋, I'm Humair Shoukat </h1>
 <h3 align="center"> CS Undergrad 👨‍💻 | Google DSC Lead | Microsoft Student Ambassador 🚩</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<br><br> 
+<br><br>
 
 - 🔭 I’m currently working on **my final year project**
 
