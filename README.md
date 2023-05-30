@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **my final year project**
 
-- 🌱 I’m currently learning **web & app technologies**
+- 🌱 I’m currently learning **full stack engineering**
 
-- 🤝 I’m looking to collaborate on **open source projects**
+- 🤝 I’m looking to collaborate on **real world projects**
 
 - 💬 Ask me about **building technical student communities**
 
