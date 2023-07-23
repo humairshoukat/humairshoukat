@@ -38,12 +38,9 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
 </p>
 
-<p align="center" width="200">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=humairshoukat&show_icons=true&locale=en" alt="humairshoukat"/>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=humairshoukat&" alt="humairshoukat"/>
-</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=humairshoukat&show_icons=true&locale=en" alt="humairshoukat"/></p>
 
-<p align="center"></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humairshoukat&" alt="humairshoukat"/></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"></p>
 
