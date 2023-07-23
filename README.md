@@ -1,19 +1,20 @@
-<h1 align="center"> Hi,👋 I'm Humair; </h1>
-<h3 align="center"> Final-Year Computer Science Student from Pakistan 👨‍💻 </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<br><br>
+<h2 align="center"> Hi,👋 I'm Humair; </h2>
+<!-- <h3 align="center"> Final-Year Computer Science Student from Pakistan 👨‍💻 </h3> -->
+<img align="right" alt="Coding" height="275" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br>
 
-- 🔭 I’m currently working on **my final year project**
+- 👨‍💻 I’m a **computer science student** from Pakistan
 
-- 🌱 I’m currently learning **backend & infrastructure engineering**
+- 🌱 I’m currently learning **backend development**
 
-- 🤝 I’m looking to collaborate on **real-world projects**
+- 💬 Ask me about **software development**
 
-- 💬 Ask me about **building technical student communities**
+- 📫 You can reach me at my **humairshoukat@gmail.com**
 
-- 📫 You can reach me at **humairshoukat@gmail.com**
+- ⚡ Fun fact: **Coding improves Problem-Solving Skill**
 
-- ⚡ Fun fact: **Coding improves Problem-Solving Skill** 
+<br>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter" align="right"> <img src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=red"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,22 +50,11 @@
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=humairshoukat&show_icons=true&locale=en&layout=compact" alt="humairshoukat" /></p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=humairshoukat&show_icons=true&locale=en" alt="humairshoukat"/>
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humairshoukat&" alt="humairshoukat"/>
-</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=humairshoukat&show_icons=true&locale=en" alt="humairshoukat"/></p>
 
-<p align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humairshoukat&" alt="humairshoukat"/></p>
 
-<h3 align="left">Profile views and Followers: </h3>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=red"> </a>
-<a href="https://github.com/humairshoukat?tab=followers">
-   <img src="https://img.shields.io/github/followers/humairshoukat?label=Followers&style=social" alt="GitHub Badge">
-</a>
+<p align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"></p>
 
 <!---
 humairshoukat/humairshoukat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
