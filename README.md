@@ -1,5 +1,4 @@
 <h2 align="center"> Hi,👋 I'm Humair; </h2>
-<!-- <h3 align="center"> Final-Year Computer Science Student from Pakistan 👨‍💻 </h3> -->
 <img align="right" alt="Coding" height="275" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
 
