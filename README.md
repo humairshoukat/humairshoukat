@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" height="275" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
 
-- 👨‍💻 I’m a **computer science student** from Pakistan
+- 👨‍💻 I’m a **Software Developer** from Pakistan
 
 - 🌱 I’m currently learning **backend development**
 
