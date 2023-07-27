@@ -1,5 +1,6 @@
 <h2 align="center"> Hi,👋 I'm Humair; </h2>
-<img align="right" alt="Coding" height="275" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" height="275" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<img align="right" alt="coding" height="300" width="300" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F52d491bb-b97d-47d7-9078-8ebcd1899357%2Flaptop.png?table=block&id=6a7e4e99-9f4f-4d02-81d8-bc4dda80105c&cache=v2">
 <br>
 
 - 👨‍💻 I’m a **Software Developer** from Pakistan
