@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m a **Software Developer** from Pakistan
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently building **Python Projects**
 
 - 💬 Ask me about **software development**
 
@@ -14,7 +14,7 @@
 - ⚡ Fun fact: **Coding improves Problem-Solving Skill**
 
 <br>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter" align="right"> <img src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=red"></a>
+<img src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=blueviolet">
 
 <h3 align="left">Programming Languages and Technologies:</h3> 
 <p align="left">
