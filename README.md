@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m a **Software Developer** from Pakistan
 
-- 🌱 I’m currently building **Python Projects**
+- 🌱 I’m currently learning **Python, React, and AWS**
 
 - 💬 Ask me about **software development**
 
