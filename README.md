@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **software development**
 
-- 📫 You can reach me at **humairshoukat@gmail.com**
+- 📫 You can reach me at **<a href="https://linkedin.com/in/humairshoukat">Linkedin</a>** or **<a href="https://instagram.com/humairshoukat">Instagram</a>**
 
 - ⚡ Fun fact: **Coding improves Problem-Solving Skill**
 
