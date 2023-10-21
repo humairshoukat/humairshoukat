@@ -1,5 +1,5 @@
 <h2> Hi👋, I'm Humair; </h1>
-<br>
+<img src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=blueviolet">
 <img align="right" alt="coding" height="300" width="315" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F52d491bb-b97d-47d7-9078-8ebcd1899357%2Flaptop.png?table=block&id=6a7e4e99-9f4f-4d02-81d8-bc4dda80105c&cache=v2">
 
 - 👨‍💻 **Software Developer @ <a href="https://github.com/bytewiseltd">Bytewise Limited</a>**
@@ -11,9 +11,6 @@
 - 📫 You can reach me at **<a href="https://linkedin.com/in/humairshoukat">Linkedin</a>** or **<a href="https://instagram.com/humairshoukat">Instagram</a>**
 
 - ⚡ Fun fact: **Coding improves Problem-Solving Skill**
-
-<br>
-<img src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=blueviolet">
 
 <h3 align="left">Programming Languages and Technologies:</h3> 
 <p align="left">
@@ -36,7 +33,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=humairshoukat&show_icons=true&locale=en" alt="humairshoukat-githubstats"/></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=humairshoukat&" alt="humairshoukat-githubstreak"/></p>
-<p align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="githubcontributions-snakegame"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"></p>
 
 <!---
 humairshoukat/humairshoukat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
