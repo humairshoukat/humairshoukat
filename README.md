@@ -1,6 +1,9 @@
 <h2> Hi👋, I'm Humair; </h1>
+
+<img align="right" alt="coding" height="275" width="275" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F52d491bb-b97d-47d7-9078-8ebcd1899357%2Flaptop.png?table=block&id=6a7e4e99-9f4f-4d02-81d8-bc4dda80105c&cache=v2">
+
 <img src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=blueviolet">
-<img align="right" alt="coding" height="250" width="250" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F52d491bb-b97d-47d7-9078-8ebcd1899357%2Flaptop.png?table=block&id=6a7e4e99-9f4f-4d02-81d8-bc4dda80105c&cache=v2">
+
 
 - 👨‍💻 **Software Developer @ <a href="https://github.com/bytewiseltd">Bytewise Limited</a>**
 
@@ -30,6 +33,8 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
 </p>
+
+<br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=humairshoukat&show_icons=true&locale=en" alt="humairshoukat-githubstats"/></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=humairshoukat&" alt="humairshoukat-githubstreak"/></p>
