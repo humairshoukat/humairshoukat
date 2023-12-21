@@ -6,7 +6,7 @@
 
 - 👨‍💻 **Software Developer @ <a href="https://github.com/bytewiseltd">Bytewise Limited</a>**
 
-- 🌱 I’m currently learning **Backend and Cloud**
+- 🌱 I’m currently learning **clouds**
 
 - 💬 Ask me about **software development & student communities**
 
