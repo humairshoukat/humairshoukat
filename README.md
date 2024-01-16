@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" height="300" width="300" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F52d491bb-b97d-47d7-9078-8ebcd1899357%2Flaptop.png?table=block&id=6a7e4e99-9f4f-4d02-81d8-bc4dda80105c&cache=v2">
 <h3>👨‍🎓 CS @ <a href="https://www.numl.edu.pk">NUML</a> </h3>
-<h3>👨‍💻 Works @ <a href="https://github.com/bytewiseltd">Bytewise</a> </h3>
+<h3>👨‍💻 Works @ <a href="https://github.com/invotyx">Invotyx</a> </h3>
 <h3>🚀 Communities @ <a href="https://gdsc.community.dev/national-university-of-modern-languages-numl-islamabad/">GDSC</a> // <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/2300f250-c5f5-4557-85f5-ca1f3148dbfc">MLSA</a> </h3>
 <h3>📍 Lives in Islamabad, Pakistan </h3>
 <h3>🌎 Speakes English and Urdu</h3>
