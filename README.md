@@ -8,7 +8,7 @@
 <h3>📍 Lives in Islamabad, Pakistan </h3>
 <h3>🌎 Speakes English and Urdu</h3>
 
-<h3><a href="https://linkedin.com/in/humairshoukat">Linkedin</a> // <a href="https://drive.google.com/file/d/1SFF5YObHNcLuoz8m5w7ryC2MNOF0gOw9/view?usp=sharing">Resume</a></h3>
+<h3><a href="https://linkedin.com/in/humairshoukat">Linkedin</a> // <a href="https://drive.google.com/drive/folders/1tYJrz1rFeIFOceEnWtiFXbdLMtxbOdH-?usp=sharing">Resume</a></h3>
 
 **<h3 align="left">Tech Stack:</h3>**
 <p align="left">
