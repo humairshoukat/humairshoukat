@@ -27,7 +27,19 @@
         <a href="https://fastapi.tiangolo.com/"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastAPI"/> </a>
     </td>
     <td align='center' width="70">
+         <a href="https://www.postgresql.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgres"/> </a>
+    </td>
+    <td align='center' width="90">
+         <a href="https://www.mysql.com/"> <img src="https://www.isummation.com/wp-content/uploads/2022/08/mysql-logo-pngrepo-com.png" alt="mysql"/> </a>
+    </td>
+    <td align='center' width="70">
          <a href="https://aws.amazon.com/"> <img src="https://pbs.twimg.com/profile_images/1641476962362302464/K8lb6OtN_400x400.jpg" alt="aws"></a>
+    </td>
+    <td align='center' width="70">
+         <a href="https://azure.microsoft.com/"> <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure"/> </a>
+    </td>
+    <td align='center' width="70">
+         <a href="https://cloud.google.com/"> <img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" alt="gcp"/> </a>
     </td>
     <td align='center' width="70">
         <a href="https://github.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-  symbol.svg.png" alt="github"/> </a>
@@ -37,13 +49,8 @@
 </table>
 
 <!---
-<a href="https://flutter.dev/"> <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="flutter" width="45" height="45"/> </a>
-<a href="https://aws.amazon.com/"> <img src="https://pbs.twimg.com/profile_images/1641476962362302464/K8lb6OtN_400x400.jpg" alt="aws" width="45" height="45"/> </a>
-<a href="https://azure.microsoft.com/"> <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" width="45" height="45"/> </a>
-<a href="https://cloud.google.com/"> <img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" alt="gcp" width="50" height="43"/> </a>
-<a href="https://www.mongodb.com/"> <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" alt="mongodb" width="45" height="45"/> </a>  
-<a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a> 
-<a href="https://github.com/"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="45" height="45"/> </a>
+<a href="https://flutter.dev/"> <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="flutter"/> </a>
+<a href="https://react.dev/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="react"/> </a>
 --->
 
 <br>
