@@ -7,8 +7,7 @@
 <h3>🚀 Communities @ <a href="https://gdsc.community.dev/national-university-of-modern-languages-numl-islamabad/">GDSC</a> // <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/2300f250-c5f5-4557-85f5-ca1f3148dbfc">MLSA</a> </h3>
 <h3>📍 Lives in Islamabad, Pakistan </h3>
 <h3>🌎 Speakes English and Urdu</h3>
-
-<h3><a href="https://linkedin.com/in/humairshoukat">Linkedin</a> // <a href="https://drive.google.com/drive/folders/1tYJrz1rFeIFOceEnWtiFXbdLMtxbOdH-?usp=sharing">Resume</a></h3>
+<h3>📄 <a href="https://drive.google.com/drive/folders/1tYJrz1rFeIFOceEnWtiFXbdLMtxbOdH-?usp=sharing">Resume</a> // <a href="https://linkedin.com/in/humairshoukat">Linkedin</a> </h3>
 
 **<h3 align="left">Tech Stack:</h3>**
 
