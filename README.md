@@ -1,5 +1,20 @@
-<h2> Hi 👋 I'm Humair; <img align="right" src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=blueviolet"></h2>
-<h3> I'm a new-grad Software Engineer interested in Backend, Cloud, Data, and Infrastructure Engineering. I’m passionate about solving real-world problems and always eager to learn new technologies.</h3>
+<h2>
+    Hi 👋 I'm Humair; a Software Engineer from Pakistan 👨‍💻
+    <img align="right" src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=blueviolet">
+</h2>
+
+```bash
+humairshoukat = {
+  "developer": true,
+  "company": "Invotyx",
+  "interest": ["Backend", "Cloud", "Data", "Gen AI"],
+  "technologies": ["Python", "Django", "Flask", "FastAPI", "AWS"]
+}
+```
+
+<h3>
+    I'm a new-grad Software Engineer interested in Backend, Cloud, Data, and Infrastructure Engineering. I’m passionate about solving real-world problems and always eager to learn new technologies.
+</h3>
 
 <img align="right" alt="coding" height="300" width="300" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F52d491bb-b97d-47d7-9078-8ebcd1899357%2Flaptop.png?table=block&id=6a7e4e99-9f4f-4d02-81d8-bc4dda80105c&cache=v2">
 <h3>👨‍🎓 CS @ <a href="https://www.numl.edu.pk">NUML</a> </h3>
