@@ -43,9 +43,6 @@
 <!--     <td align='center' width="70">
          <a href="https://cloud.google.com/"> <img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" alt="gcp"/> </a>
     </td> -->
-    <td align='center' width="70">
-        <a href="https://github.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-  symbol.svg.png" alt="github"/> </a>
-    </td>
 </tr>
 
 </table>
@@ -56,9 +53,8 @@
 --->
 
 <br>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=humairshoukat&show_icons=true&locale=en" alt="humairshoukat-githubstats"/>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
 
 <!---
