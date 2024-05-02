@@ -1,5 +1,5 @@
 <h2>
-    Hi 👋 I'm Humair; a Software Engineer from Pakistan 👨‍💻
+    👋 I'm Humair; a Software Engineer from Pakistan 👨‍💻
     <img align="right" src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=blueviolet">
 </h2>
 
@@ -7,23 +7,16 @@
 humairshoukat = {
   "developer": true,
   "company": "Invotyx",
-  "interest": ["Backend", "Cloud", "Data", "Gen AI"],
+  "interests": ["Backend", "Cloud", "Data", "Gen AI"],
   "technologies": ["Python", "Django", "Flask", "FastAPI", "AWS"]
 }
 ```
 
-<h3>
-    I'm a new-grad Software Engineer interested in Backend, Cloud, Data, and Infrastructure Engineering. I’m passionate about solving real-world problems and always eager to learn new technologies.
-</h3>
-
+<!---
 <img align="right" alt="coding" height="300" width="300" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F52d491bb-b97d-47d7-9078-8ebcd1899357%2Flaptop.png?table=block&id=6a7e4e99-9f4f-4d02-81d8-bc4dda80105c&cache=v2">
-<h3>👨‍🎓 CS @ <a href="https://www.numl.edu.pk">NUML</a> </h3>
-<h3>👨‍💻 Works @ <a href="https://github.com/invotyx">Invotyx</a> </h3>
-<h3>🚀 Communities @ <a href="https://gdsc.community.dev/national-university-of-modern-languages-numl-islamabad/">GDSC</a> // <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/2300f250-c5f5-4557-85f5-ca1f3148dbfc">MLSA</a> </h3>
-<h3>📍 Lives in Islamabad, Pakistan </h3>
-<h3>🌎 Speakes English and Urdu</h3>
-<h3>📄 <a href="https://drive.google.com/drive/folders/1tYJrz1rFeIFOceEnWtiFXbdLMtxbOdH-?usp=sharing">Resume</a> // <a href="https://linkedin.com/in/humairshoukat">Linkedin</a> </h3>
+--->
 
+<!---
 **<h3 align="left">Tech Stack:</h3>**
 
 <table width="100">
@@ -55,22 +48,24 @@ humairshoukat = {
     <td align='center' width="70">
          <a href="https://azure.microsoft.com/"> <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure"/> </a>
     </td>
-<!--     <td align='center' width="70">
+    <td align='center' width="70">
          <a href="https://cloud.google.com/"> <img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" alt="gcp"/> </a>
-    </td> -->
+    </td>
 </tr>
 
 </table>
+--->
 
 <!---
 <a href="https://flutter.dev/"> <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="flutter"/> </a>
 <a href="https://react.dev/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="react"/> </a>
 --->
 
-<br>
+<!---
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=humairshoukat&show_icons=true&locale=en" alt="humairshoukat-githubstats"/>
 </p>
+--->
 
 <!---
 humairshoukat/humairshoukat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
