@@ -1,5 +1,5 @@
 <h2>
-    👋 I'm Humair; a Software Engineer from Pakistan 👨‍💻
+    Hello 👋
     <img align="right" src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=blueviolet">
 </h2>
 
