@@ -5,8 +5,7 @@
 
 ```bash
 humairshoukat = {
-  "developer": true,
-  "company": "Invotyx",
+  "title": "software engineer",
   "interests": ["Backend", "Cloud", "Data", "Gen AI"],
   "technologies": ["Python", "Django", "Flask", "FastAPI", "AWS"]
 }
