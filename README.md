@@ -6,18 +6,18 @@
 ```bash
 humairshoukat = {
     "title": "software engineer",
-    "interests": ["Backend", "Gen AI", "Cloud", "Data"],
-    "technologies": ["Python", "Node.js", "SQL", "AWS", "LLMs"]
-    "tools": ["VS Code", "PyCharm", "Docker", "GitHub"]
+    "interests": ["Backend", "Data", "Cloud", "Gen AI"],
+    "technologies": ["Python", "SQL", "AWS", "LLMs"]
+    "tools": ["PyCharm", "VS Code", "Docker", "GitHub"]
 }
 ```
 
-<!--
-![Humairs's GitHub stats](https://github-readme-stats.vercel.app/api?username=humairshoukat&show_icons=true&theme=defaultl&rank_icon=github)
-![Humairs's GitHub stats](https://github-readme-stats.vercel.app/api?username=humairshoukat&show_icons=true&theme=defaultl&rank_icon=percentile)
-
+<!---
+![Humairs's GitHub stats](https://github-readme-stats.vercel.app/api?username=humairshoukat&show_icons=true&theme=defaultl&rank_icon=github) 
+<!--- rank_icon=percentile --->
+<!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humairshoukat&langs_count=14&count_private=true&layout=compact&custom_title=Humair%20Shoukat%27s%20Top%20Languages&card_width=465&hide=java,PHP,hack,verilog,assembly,coq)
--->
+--->
 
 
 <!---
