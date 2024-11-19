@@ -6,9 +6,9 @@
 ```bash
 humairshoukat = {
     "title": "software engineer",
-    "interests": ["Backend", "Data", "Cloud", "Gen AI"],
-    "technologies": ["Python", "SQL", "AWS", "LLMs"]
-    "tools": ["PyCharm", "VS Code", "Docker", "GitHub"]
+    "interests": ["Full-Stack", "Backend", "Generative-AI", "Cloud"],
+    "technologies": ["Python", "TypeScript", "SQL", "AWS", "Open AI"]
+    "tools": ["Cursor", "Claude", "Docker", "GitHub"]
 }
 ```
 
