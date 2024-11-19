@@ -7,7 +7,7 @@
 humairshoukat = {
     "title": "software engineer",
     "interests": ["Full-Stack", "Backend", "Generative-AI", "Cloud"],
-    "technologies": ["Python", "TypeScript", "SQL", "AWS", "Open AI"]
+    "technologies": ["Python", "TypeScript", "SQL", "AWS", "Open AI"],
     "tools": ["Cursor", "Claude", "Docker", "GitHub"]
 }
 ```
