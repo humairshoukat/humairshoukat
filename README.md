@@ -5,10 +5,10 @@
 
 ```bash
 humairshoukat = {
-    "title": "Software Engineer",
-    "interests": ["Web", "Backend", "Cloud", "Gen-AI"],
-    "technologies": ["Python", "TypeScript", "SQL", "AWS", "Docker"],
-    "tools": ["VS Code", "Cursor", "Co-Pilot", "Claude", "ChatGPT"]
+    "title": "AI Engineer",
+    "interests": ["Gen-AI", "LLMs", "AI Agents", "Agentic AI"],
+    "technologies": ["Python", "Langchain", "FastAPI", "OpenAI", "AWS", "Docker"],
+    "tools": ["Cursor", "Claude", "Co-Pilot", "ChatGPT", "Gemini"]
 }
 ```
 
@@ -25,5 +25,5 @@ humairshoukat = {
 
 <!---
 humairshoukat/humairshoukat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->  
