@@ -5,10 +5,10 @@
 
 ```bash
 humairshoukat = {
-    "title": "Software Engineer II",
-    "interests": ["Backend", "DevOps", "Gen-AI", "AI Agents", "Chatbots"],
-    "technologies": ["Python", "Django/FastAPI", "SQL", "Langchain", "AWS"],
-    "tools": ["Cursor", "Codex", "Co-Pilot", "ChatGPT", "Gemini"]
+    "title": "Software Engineer",
+    "interests": ["Backend", "Gen-AI", "LLMs", "AI Agents", "Chatbots"],
+    "technologies": ["Python", "Django", "FastAPI", "SQL", "Langchain", "OpenAI/Gemini", "AWS"],
+    "tools": ["Co-Pilot", "Codex", "Cursor", "ChatGPT", "Gemini"]
 }
 ```
 
