@@ -6,9 +6,9 @@
 ```bash
 humairshoukat = {
     "title": "Software Engineer",
-    "interests": ["Backend", "Gen-AI", "LLMs", "AI Agents", "Chatbots"],
-    "technologies": ["Python", "Django", "FastAPI", "SQL", "Langchain", "OpenAI/Gemini", "AWS"],
-    "tools": ["Co-Pilot", "Codex", "Cursor", "ChatGPT", "Gemini"]
+    "interests": ["Backend", "Microservices", "Gen-AI", "AI Agents", "Chatbots"],
+    "technologies": ["Python", "Django", "FastAPI", "SQL", "AWS", "Langchain", "OpenAI/Gemini"],
+    "tools": ["VS Code", "Co-Pilot", "Codex", "Docker", "GitHub"]
 }
 ```
 
@@ -21,7 +21,6 @@ humairshoukat = {
 
 </div>
 --->
-
 
 <!---
 humairshoukat/humairshoukat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
