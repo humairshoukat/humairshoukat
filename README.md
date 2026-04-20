@@ -6,13 +6,13 @@
 ```bash
 humairshoukat = {
     "title": "Software Engineer",
-    "interests": ["Backend", "Microservices", "Gen-AI", "AI Agents"],
-    "technologies": ["Python", "Django", "FastAPI", "LLMs", "Langchain", "SQL", "AWS"],
-    "tools": ["Claude", "Co-Pilot", "Codex", "VS Code", "Docker", "GitHub"]
+    "interests": ["Full-Stack", "DevOps", "Gen-AI"],
+    "technologies": ["Python", "TypeScript", "SQL", "AWS", "LLMs"],
+    "tools": ["Claude", "Codex", "Co-Pilot", "VS Code", "Docker", "GitHub"]
 }
 ```
 
-<!---
+
 <div align="center">
 
 | GitHub Stats | Top Languages |
@@ -20,7 +20,6 @@ humairshoukat = {
 | ![Humair's GitHub stats](https://github-readme-stats.vercel.app/api?username=humairshoukat&show_icons=true&theme=dark&rank_icon=github) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humairshoukat&langs_count=14&count_private=true&layout=compact&custom_title=Humair%20Shoukat%27s%20Top%20Languages&theme=dark&card_width=465&hide=java,PHP,hack,verilog,assembly,coq) |
 
 </div>
---->
 
 <!---
 humairshoukat/humairshoukat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
