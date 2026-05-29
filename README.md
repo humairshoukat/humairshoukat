@@ -9,8 +9,6 @@
 
 A Software Engineer with over 2 years of experience specializing in Python, React, SQL, AWS, Full-Stack, DevOps, and GenAI technologies. My expertise spans across diverse industries, including SaaS, Ed-Tech, Health-Tech, Engineering, and E-Commerce.
 
-Currently, as a Software Engineer at Invotyx, I design, develop, deploy, and manage full-stack AI-powered applications, taking full ownership from concept to delivery.
-
 I thrive on challenges & complexity. I love to help others and am always open to exploring new ideas and opportunities. You can reach out to me via my socials.
 
 Check out my [**Resume**](https://drive.google.com/file/d/12iOqUb5AzX7q5XSV0Z2HexwjzuIFb84B/view?usp=sharing) to read more about me, my skills, and my experience.
