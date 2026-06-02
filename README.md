@@ -7,7 +7,7 @@
 
 # Hi 👋, I'm Humair Shoukat
 
-A Software Engineer with over 2 years of experience specializing in Python, React, SQL, AWS, Full-Stack, DevOps, and GenAI technologies. My expertise spans across diverse industries, including SaaS, Ed-Tech, Health-Tech, Engineering, and E-Commerce.
+A Software Engineer with 2.5 years of experience specializing in Python, React, SQL, AWS, Full-Stack, DevOps, and GenAI technologies. My expertise spans across diverse industries, including SaaS, Ed-Tech, Health-Tech, Engineering, and E-Commerce.
 
 I thrive on challenges & complexity. I love to help others and am always open to exploring new ideas and opportunities. You can reach out to me via my socials.
 
@@ -56,5 +56,4 @@ Check out my [**Resume**](https://drive.google.com/file/d/12iOqUb5AzX7q5XSV0Z2He
   <a href="https://medium.com/@humairshoukat"><img src="https://go-skill-icons.vercel.app/api/icons?i=medium" width="50" height="50" alt="medium" /></a>&nbsp;
   <a href="https://discord.com/users/humairshoukat" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" width="50" height="50" alt="discord" /></a>&nbsp;
   <a href="https://stackoverflow.com/users/17219141/humair-shoukat"><img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow" width="50" height="50" alt="stackoverflow" /></a>&nbsp;
-  <a href="https://www.instagram.com/humairshoukat/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" width="50" height="50" alt="instagram" /></a>&nbsp;
 </div>
