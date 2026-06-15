@@ -42,7 +42,7 @@ Check out my [**Resume**](https://drive.google.com/file/d/12iOqUb5AzX7q5XSV0Z2He
   <!-- <a href="https://www.mysql.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="mysql logo" width="50" height="50" /></a>&nbsp; -->
   <a href="https://www.docker.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker logo" width="50" height="50" /></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git logo" width="50" height="50" /></a>&nbsp;
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="vercel" width="50" height="50" /></a>&nbsp;
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="vercel" width="50" height="50" /></a>&nbsp;
   <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="html logo" width="50" height="50" /></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="css logo" width="50" height="50" /></a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss" alt="tailwindcss logo" width="50" height="50" /></a>&nbsp; -->
