@@ -7,25 +7,13 @@
 
 # Hi 👋, I'm Humair Shoukat
 
-A Software Engineer with over 3 years of experience specializing in Python, React, SQL, AWS, Full-Stack, DevOps, and GenAI technologies. My expertise spans across diverse industries, including SaaS, Ed-Tech, Health-Tech, Engineering, and E-Commerce.
+A Software Engineer with over 2.5 years of experience specializing in Python, React, SQL, AWS, Full-Stack, DevOps, and GenAI technologies. My expertise spans across diverse industries, including SaaS, Ed-Tech, Health-Tech, Engineering, and E-Commerce.
 
 I thrive on challenges & complexity. I love to help others and am always open to exploring new ideas and opportunities. You can reach out to me via my socials.
 
 Check out my [**Resume**](https://drive.google.com/file/d/12iOqUb5AzX7q5XSV0Z2HexwjzuIFb84B/view?usp=sharing) to read more about me, my skills, and my experience.
 
 <img src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=blueviolet">
-
-<!-- markdownlint-disable-next-line heading-increment -->
-
-<!-- ### I [**write sometimes**](https://medium.com/@humairshoukat) & I also do a mix of shitposting, building in public and lore drops on my [**linkedin**](https://www.linkedin.com/in/humairshoukat/) -->
-
-<!-- <br>
-<picture>
-  <source srcset="assets/underline-white.svg" media="(prefers-color-scheme: dark)">
-  <source srcset="assets/underline-black.svg" media="(prefers-color-scheme: light)">
-  <img src="assets/underline-white.svg" width="500" align="left" alt="—————————————————————————————">
-</picture>
-<br> -->
 
 ## <sub><picture><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" valign="top" alt="⚡"></picture></sub>&nbsp;&nbsp;Skills
 
@@ -34,18 +22,13 @@ Check out my [**Resume**](https://drive.google.com/file/d/12iOqUb5AzX7q5XSV0Z2He
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=django" alt="django" width="50" height="50" /></a>&nbsp;
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" alt="fastapi" width="50" height="50" /></a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="typescript logo" width="50" height="50" /></a>&nbsp;
-  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="javascript logo" width="50" height="50" /></a>&nbsp; -->
   <a href="https://react.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="react" width="50" height="50" /></a>&nbsp;
   <a href="https://nodejs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="nodejs" width="50" height="50" /></a>&nbsp;
   <a href="https://nextjs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="nextjs" width="50" height="50" /></a>&nbsp;
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="postgresql logo" width="50" height="50" /></a>&nbsp;
-  <!-- <a href="https://www.mysql.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="mysql logo" width="50" height="50" /></a>&nbsp; -->
   <a href="https://www.docker.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker logo" width="50" height="50" /></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git logo" width="50" height="50" /></a>&nbsp;
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="vercel" width="50" height="50" /></a>&nbsp;
-  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="html logo" width="50" height="50" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="css logo" width="50" height="50" /></a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss" alt="tailwindcss logo" width="50" height="50" /></a>&nbsp; -->
 </div>
 
 ## <sub><picture><source srcset="assets/icons/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/globe-white.svg" width="22" valign="top" alt="🌐"></picture></sub>&nbsp;&nbsp;Socials
