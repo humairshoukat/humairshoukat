@@ -15,7 +15,7 @@ Check out my [**Resume**](https://drive.google.com/file/d/12iOqUb5AzX7q5XSV0Z2He
 
 <img src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=blueviolet">
 
-## <sub><picture><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" valign="top" alt="⚡"></picture></sub>&nbsp;&nbsp;Skills
+## <sub><picture><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" valign="top" alt="⚡"></picture></sub>&nbsp;&nbsp;Skills & Tools
 
 <div align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python" width="50" height="50" /></a>&nbsp;
@@ -25,10 +25,10 @@ Check out my [**Resume**](https://drive.google.com/file/d/12iOqUb5AzX7q5XSV0Z2He
   <a href="https://react.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="react" width="50" height="50" /></a>&nbsp;
   <a href="https://nodejs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="nodejs" width="50" height="50" /></a>&nbsp;
   <a href="https://nextjs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="nextjs" width="50" height="50" /></a>&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="postgresql logo" width="50" height="50" /></a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker logo" width="50" height="50" /></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git logo" width="50" height="50" /></a>&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="vercel" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="postgresql" width="50" height="50" /></a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker" width="50" height="50" /></a>&nbsp;
+  <a href="https://github.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="github" width="50" height="50" /></a>&nbsp;
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="aws" width="50" height="50" /></a>&nbsp;
 </div>
 
 ## <sub><picture><source srcset="assets/icons/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/globe-white.svg" width="22" valign="top" alt="🌐"></picture></sub>&nbsp;&nbsp;Socials
