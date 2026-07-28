@@ -15,7 +15,7 @@ Check out my [**Resume**](https://drive.google.com/file/d/12iOqUb5AzX7q5XSV0Z2He
 
 <img src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=blueviolet">
 
-## <sub><picture><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" valign="top" alt="⚡"></picture></sub>&nbsp;&nbsp;Skills & Tools
+## <sub><picture><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" valign="top" alt="⚡"></picture></sub>&nbsp;&nbsp;Skills
 
 <div align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python" width="50" height="50" /></a>&nbsp;
