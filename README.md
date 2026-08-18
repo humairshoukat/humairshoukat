@@ -7,9 +7,9 @@
 
 # Hi 👋, I'm Humair Shoukat
 
-A Software Engineer with over 2.5 years of experience specializing in Python, React, SQL, AWS, Full-Stack, DevOps, and GenAI technologies. My expertise spans across diverse industries, including SaaS, Ed-Tech, Health-Tech, Engineering, and E-Commerce.
+A Software Engineer with 3 years of experience building scalable software products across SaaS, Ed-Tech, Health-Tech, Engineering, and E-Commerce. I specialize in Full-Stack development, DevOps, and GenAI technologies.
 
-I thrive on challenges & complexity. I love to help others and am always open to exploring new ideas and opportunities. You can reach out to me via my socials.
+Beyond writing code, I actively mentor junior developers and interns, guiding them through technical challenges and helping them level up their skills. I am always open to exploring new ideas and building innovative solutions.
 
 Check out my [**Resume**](https://drive.google.com/file/d/12iOqUb5AzX7q5XSV0Z2HexwjzuIFb84B/view?usp=sharing) to read more about me, my skills, and my experience.
 
