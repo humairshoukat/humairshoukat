@@ -11,7 +11,7 @@ A Software Engineer with 3 years of experience building scalable software produc
 
 Beyond writing code, I actively mentor junior developers and interns, guiding them through technical challenges and helping them level up their skills. I am always open to exploring new ideas and building innovative solutions.
 
-Check out my [**Resume**](https://drive.google.com/file/d/12iOqUb5AzX7q5XSV0Z2HexwjzuIFb84B/view?usp=sharing) to read more about me, my skills, and my experience.
+Check out my [**Resume**](https://drive.google.com/file/d/1hRa8YnwM7JtcoRxvkxAvGdHrcBKY4yO_/view?usp=sharing) to read more about me, my skills, and my experience.
 
 <img src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=blueviolet">
 
