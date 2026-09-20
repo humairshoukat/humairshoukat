@@ -9,7 +9,7 @@
 
 A Software Engineer with 3 years of experience building scalable software products across SaaS, Ed-Tech, Health-Tech, Engineering, and E-Commerce. I specialize in Full-Stack development, DevOps, and GenAI technologies.
 
-Beyond writing code, I actively mentor junior developers and interns, guiding them through technical challenges and helping them level up their skills. I am always open to exploring new ideas and building innovative solutions.
+Currently, as a Software Engineer at Invotyx, I design, develop, deploy, and manage full-stack AI-powered applications, taking full ownership from concept to delivery. I thrive on challenges & complexity. I love to help others and am always open to exploring new ideas & opportunities. 
 
 Check out my [**Resume**](https://drive.google.com/file/d/1hRa8YnwM7JtcoRxvkxAvGdHrcBKY4yO_/view?usp=sharing) to read more about me, my skills, and my experience.
 
