@@ -21,6 +21,8 @@ Check out my [**Resume**](https://drive.google.com/file/d/1hRa8YnwM7JtcoRxvkxAvG
   <a href="https://nextjs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="nextjs" width="40" height="40" /></a>&nbsp;
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="postgresql" width="40" height="40" /></a>&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker" width="40" height="40" /></a>&nbsp;
-  <a href="https://github.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="github" width="40" height="40" /></a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git" width="40" height="40" /></a>&nbsp;
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="aws" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.terminal.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=terminal" alt="terminal" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.linux.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="linux" width="40" height="40" /></a>&nbsp;
 </div>
