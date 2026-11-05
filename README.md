@@ -1,19 +1,13 @@
 <!-- markdownlint-disable no-inline-html first-line-h1 -->
 
-<picture>
-  <source srcset="" media="(max-width: 900px)" width="0" height="0">
-  <img align="right" width="300" height="300" src="assets/animation.gif" alt="">
-</picture>
 
-# Hi 👋, I'm Humair Shoukat
+# Hi 👋, I'm Humair Shoukat     <img align="right" src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=blueviolet">
 
 A Software Engineer with 3 years of experience building scalable software products across SaaS, Ed-Tech, Health-Tech, Engineering, and E-Commerce. I specialize in Full-Stack development, DevOps, and GenAI technologies.
 
-Currently, as a Software Engineer at Invotyx, I design, develop, deploy, and manage full-stack AI-powered applications, taking full ownership from concept to delivery. I thrive on challenges & complexity. I love to help others and am always open to exploring new ideas & opportunities. 
-
 Check out my [**Resume**](https://drive.google.com/file/d/1hRa8YnwM7JtcoRxvkxAvGdHrcBKY4yO_/view?usp=sharing) to read more about me, my skills, and my experience.
 
-<img src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=blueviolet">
+
 
 ## <sub><picture><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="22" valign="top" alt="⚡"></picture></sub>&nbsp;&nbsp;Skills
 
