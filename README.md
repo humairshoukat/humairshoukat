@@ -24,13 +24,3 @@ Check out my [**Resume**](https://drive.google.com/file/d/1hRa8YnwM7JtcoRxvkxAvG
   <a href="https://github.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="github" width="40" height="40" /></a>&nbsp;
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="aws" width="40" height="40" /></a>&nbsp;
 </div>
-
-## <sub><picture><source srcset="assets/icons/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/globe-white.svg" width="20" valign="top" alt="🌐"></picture></sub>&nbsp;&nbsp;Socials
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/humairshoukat/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="40" height="40" alt="linkedin" /></a>&nbsp;
-  <a href="mailto:humairshoukat@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="40" height="40" alt="gmail" /></a>&nbsp;
-  <a href="https://medium.com/@humairshoukat"><img src="https://go-skill-icons.vercel.app/api/icons?i=medium" width="40" height="40" alt="medium" /></a>&nbsp;
-  <a href="https://stackoverflow.com/users/17219141/humair-shoukat"><img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow" width="40" height="40" alt="stackoverflow" /></a>&nbsp;
-  <a href="https://discord.com/users/humairshoukat" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" width="40" height="40" alt="discord" /></a>&nbsp;
-</div>
