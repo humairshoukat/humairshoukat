@@ -3,28 +3,6 @@
 
 # Hi 👋, I'm Humair Shoukat     <img align="right" src="https://komarev.com/ghpvc/?username=humairshoukat&style=circle&color=blueviolet">
 
-A Software Engineer with 3 years of experience building scalable software products across SaaS, Ed-Tech, Health-Tech, Engineering, and E-Commerce. I specialize in Full-Stack development, DevOps, and GenAI technologies.
+Full-Stack & Applied AI Engineer with 3+ years of experience building scalable software products across SaaS, Ed-Tech, Health-Tech, Engineering, and E-Commerce. I specialize in Full-Stack development, DevOps, and GenAI technologies.
 
-Check out my [**Resume**](https://drive.google.com/file/d/1hRa8YnwM7JtcoRxvkxAvGdHrcBKY4yO_/view?usp=sharing) to read more about me, my skills, and my experience.
-
-
-
-## <sub><picture><source srcset="assets/icons/lightning-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/icons/lightning-black.svg" media="(prefers-color-scheme: light)"><img src="assets/icons/lightning-white.svg" width="20" valign="top" alt="⚡"></picture></sub>&nbsp;&nbsp;Skills
-
-<div align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=django" alt="django" width="40" height="40" /></a>&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" alt="fastapi" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="typescript logo" width="40" height="40" /></a>&nbsp;
-  <a href="https://react.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="react" width="40" height="40" /></a>&nbsp;
-  <a href="https://nextjs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="nextjs" width="40" height="40" /></a>&nbsp;
-  <a href="https://nodejs.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="nodejs" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="postgresql" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker" width="40" height="40" /></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git" width="40" height="40" /></a>&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="aws" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.terminal.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=terminal" alt="terminal" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.linux.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="linux" width="40" height="40" /></a>&nbsp;
-  <a href="https://chatgpt.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" alt="chatgpt" width="40" height="40" /></a>&nbsp;
-  <a href="https://n8n.io/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" alt="n8n" width="40" height="40" /></a>&nbsp;
-</div>
+Check out my [**Resume**](https://drive.google.com/file/d/1XAm7b7fTgV-TSkW91hOD5mj7QCHj7F4s/view?usp=sharing) to read more about me, my skills, and my experience.
